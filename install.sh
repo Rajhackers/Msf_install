@@ -8,7 +8,7 @@ clear
 echo ".                 "
 echo ".                  " 
 
-echo " link 🔗👉:-             "
+echo " link 🔗👉:-       https://www.mediafire.com/file/96wjs0rofbnn1vw/coad/file      "
 
 echo " download this file and coad copy and paste "
 
